@@ -195,3 +195,4 @@ node_modules/
 # Temporary files
 tmp/
 temp/
+test.py

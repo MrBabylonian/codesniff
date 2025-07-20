@@ -60,3 +60,5 @@ docs/_build/
 # Temporary folders
 tmp/
 temp/
+.github/
+*.odt
