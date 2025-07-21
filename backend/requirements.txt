@@ -12,6 +12,7 @@ click==8.2.1
 coloredlogs==15.0.1
 distro==1.9.0
 dnspython==2.7.0
+dotenv==0.9.9
 durationpy==0.10
 email_validator==2.2.0
 fastapi==0.116.1
@@ -80,12 +81,14 @@ packaging==25.0
 pillow==11.3.0
 posthog==5.4.0
 protobuf==6.31.1
+psycopg2-binary==2.9.10
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pybase64==1.4.1
 pydantic==2.11.7
 pydantic_core==2.33.2
 Pygments==2.19.2
+pyngrok==7.2.12
 PyPika==0.48.9
 pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
